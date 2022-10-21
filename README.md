@@ -14,3 +14,7 @@ This resource pack improves performance when commands fail by replacing all the 
 ## Internals
 
 TODO
+
+## Benchmarks
+
+TODO
