@@ -9,6 +9,8 @@
 
 This resource pack improves performance when commands fail by replacing all the translation values used in command exceptions with an empty string.
 
+[![download](https://img.shields.io/badge/-download-blue?style=for-the-badge)](https://github.com/intsuc/empty_exception_messages/releases/latest/download/empty_exception_messages.zip)
+
 ## Internals
 
 TODO
